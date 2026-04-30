@@ -13,6 +13,14 @@ I enjoy working with data, building dashboards, and turning data into meaningful
 
 ## 📊 Projects
 
+### 🔹 Global Environmental Inequality Analysis (Python, Power BI, SQL)
+Data analysis project exploring the relationship between wealth, air pollution, and population exposure using Python, SQL, Power BI, and DAX.
+
+➡️ Focus: environmental data analysis, data visualization, DAX, SQL
+🔗https://github.com/slamova-labs/global-environmental-inequality-analysis
+
+---
+
 ### 🔹 Sales Analysis Dashboard (Power BI)
 Interactive multi-page dashboard analyzing sales performance across regions, manufacturers, and segments.
 
