@@ -22,6 +22,6 @@ Python OOP console application for property tax calculation and report generatio
 Python · SQL · Power BI · Pandas · DAX · Git · HTML · CSS · JS
 
 ## 📫 Contact
-- [Portfolio Website](https://www.slamova-labs.github.io/CV-website/)
+- [Portfolio Website](https://slamova-labs.github.io/CV-website/)
 - [LinkedIn](https://www.linkedin.com/in/kristýna-slámová)
 - [GitHub](https://www.github.com/slamova-labs)
